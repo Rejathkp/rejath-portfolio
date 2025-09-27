@@ -10,7 +10,7 @@ export const About = () => {
     "Highcharts"
   ];
 
-  const backendSkills = ["Node.js", "Express.js", "MongoDB", "JWT", "Firebase"];
+  const backendSkills = ["Node.js", "Express.js", "MongoDB", "JWT", "Firebase","Socket.io"];
 
   return (
     <section
